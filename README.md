@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+<!-- Replace this with whatever GIF tool you used! --> https://github.com/mpooni/Unit2-Flixter/commit/b9fdd9cf12b851b3f043d8238656ae869c0cb3ef#diff-a0e03a233e04458fd0b036bac34db3d094a9a93bfb6756c83a8ed0894bdc10e7
 GIF created with ...  kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
